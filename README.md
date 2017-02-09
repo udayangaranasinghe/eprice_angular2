@@ -1,5 +1,5 @@
 # Getting the tools
- 1. download and install Nodejs https://nodejs.org/en/download/ 
+ 1. download and install Nodejs https://nodejs.org/en/download/ <br>
     npm install -g typescript
  2. As a frontend IDE use code.visualstudio.com
 
