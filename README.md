@@ -11,7 +11,7 @@
  ....\eprice_angular2 > npm install 
  
 # start the server
-....\eprice_angular2 > npm start
+....\eprice_angular2 > npm start 
 
 
 
