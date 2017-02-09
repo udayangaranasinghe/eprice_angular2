@@ -5,15 +5,15 @@
     code.visualstudio.com
 
 # Setup project
- Create new directory "eprice" and checkout the project using command line. <br>
- Run <b>git clone https://github.com/udayangaranasinghe/eprice_angular2.git</b>
+ Create new directory "sms" and checkout the project using command line. <br>
+ Run <b>git clone https://github.com/udayangaranasinghe/schoolmgtsystem.git</b>
 
 # Install the repo with npm
- Run <b>cd eprice_angular2</b> <br>
- Run <b>....\eprice_angular2 >npm install </b>
+ Run <b>cd schoolmgtsystem</b> <br>
+ Run <b>....\schoolmgtsystem >npm install </b>
  
 # Start the server
- Run <b>....\eprice_angular2 >npm start</b> 
+ Run <b>....\schoolmgtsystem >npm start</b> 
 
 # Launch application
  http://localhost:3000/
