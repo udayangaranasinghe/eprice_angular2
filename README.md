@@ -6,17 +6,20 @@
 
 # Setup project
  Create new directory "eprice" and checkout the project using command line. <br>
- <b>git clone https://github.com/udayangaranasinghe/eprice_angular2.git</b>
+ Run <b>git clone https://github.com/udayangaranasinghe/eprice_angular2.git</b>
 
 # Install the repo with npm
- cd eprice_angular2
- ....\eprice_angular2 > <b>npm install </b>
+ Run <b>cd eprice_angular2</b> <br>
+ Run <b>....\eprice_angular2 >npm install </b>
  
 # Start the server
-....\eprice_angular2 > <b>npm start</b> 
+ Run <b>....\eprice_angular2 >npm start</b> 
 
 # Launch application
-http://localhost:3000/
+ http://localhost:3000/
+ 
+# Angular2 tutorials
+https://www.youtube.com/watch?v=_-CD_5YhJTA
 
 
 
