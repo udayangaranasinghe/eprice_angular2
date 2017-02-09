@@ -1,6 +1,5 @@
 # Getting the tools
- 1. download and install Nodejs from  https://nodejs.org/en/download/ <br>
-    Run <b>npm install -g typescript </b>
+ 1. download and install Nodejs from  https://nodejs.org/en/download/    
  2. As a frontend IDE use <br>
     code.visualstudio.com
 
@@ -10,7 +9,8 @@
 
 # Install the repo with npm
  Run <b>cd schoolmgtsystem</b> <br>
- Run <b>....\schoolmgtsystem >npm install </b>
+ Run <b>....\schoolmgtsystem > npm install -g typescript </b> <br>
+ Run <b>....\schoolmgtsystem > npm install </b>
  
 # Start the server
  Run <b>....\schoolmgtsystem >npm start</b> 
