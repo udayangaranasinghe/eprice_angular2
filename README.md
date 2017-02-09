@@ -1,20 +1,18 @@
-Step 1
+# Install software
  Install Nodejs latest version
+ As a frontend IDE use code.visualstudio.com
 
-Step 2
+# Setup project
  Create new directory "eprice" and checkout the project using command line. 
  git clone https://github.com/udayangaranasinghe/eprice_angular2.git
 
-Step 3
+# install the repo with npm
  cd eprice_angular2
  ....\eprice_angular2 > npm install 
-
-# install the repo with npm
-npm install
-
+ 
 # start the server
-npm start
+....\eprice_angular2 > npm start
 
-As a frontend IDE use code.visualstudio.com
+
 
 
